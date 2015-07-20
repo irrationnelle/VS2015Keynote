@@ -50,7 +50,7 @@ Explain VS 2015 New Abilities and new features
 
 http://weblogs.asp.net/scottgu/released-today-visual-studio-2015-asp-net-4-6-asp-net-5-ef-7-previews
 
-**2.GitHub Extension for Visual Studio is open source **
+**2.GitHub Extension for Visual Studio is open source**
 
 https://github.com/blog/2038-github-extension-for-visual-studio-is-open-source
 
