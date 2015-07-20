@@ -15,3 +15,8 @@ Explain VS 2015 New Abilities and new features
   디버깅 중 람다식을 사용이 가능하다는 건지, 람다식에 디버깅이 가능하다는 건지 모르겠음
 
 출처 : http://developer.telerik.com/featured/5-incredible-features-visual-studio-2015-preview/
+
+**사실 위의 이야기 중 내가 직접 영상 보며 확인한 것은 1번과 4번, 5번 정도.**
+
+
+# 클라우드 기능 강화
