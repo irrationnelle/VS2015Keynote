@@ -43,3 +43,6 @@ Explain VS 2015 New Abilities and new features
 아파치 코르도바를 이용한 것으로 보임
 
 코르도바 어플리케이션으로 안드로이드 에뮬레이터를 제공
+
+단순 에디터로서의 VS Code를 이용한 것이 아닌 Mac의 OS X에서 빌드가 가능하다는
+이야기가 트위터에 올라옴 
