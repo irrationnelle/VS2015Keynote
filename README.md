@@ -41,3 +41,5 @@ Explain VS 2015 New Abilities and new features
 현재 3개의 모바일 디바이스를 두고 시연 중
 
 아파치 코르도바를 이용한 것으로 보임
+
+코르도바 어플리케이션으로 안드로이드 에뮬레이터를 제공
