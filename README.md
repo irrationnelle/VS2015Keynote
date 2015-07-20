@@ -43,3 +43,21 @@ Explain VS 2015 New Abilities and new features
 아파치 코르도바를 이용한 것으로 보임
 
 코르도바 어플리케이션으로 안드로이드 에뮬레이터를 제공
+
+# 새로운 소식이 업데이트 된 사이트
+
+**1.Released Today: Visual Studio 2015, ASP.NET 4.6, ASP.NET 5 & EF 7 Previews**
+
+http://weblogs.asp.net/scottgu/released-today-visual-studio-2015-asp-net-4-6-asp-net-5-ef-7-previews
+
+**2.GitHub Extension for Visual Studio is open source **
+
+https://github.com/blog/2038-github-extension-for-visual-studio-is-open-source
+
+**3.Visual Studio 2015 and Visual Studio 2013 Update 5 Released**
+
+http://blogs.msdn.com/b/visualstudio/archive/2015/07/20/visual-studio-2015-and-visual-studio-2013-update-5-released.aspx
+
+# Visual Studio 2015 RTM 버전의 전반적인 특징
+
+https://www.visualstudio.com/en-us/news/vs2015-vs
