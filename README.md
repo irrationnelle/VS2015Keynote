@@ -8,6 +8,7 @@ Explain VS 2015 New Abilities and new features
 **1. VS2015부터 창 레이아웃을 자유자재로 설정 가능**
 
 **2. 더 나아진 코드 에디터 기능**
+
 **3. Shared Project**
 
   자세히는 모르겠지만 유니버설 앱 정책의 일환으로 플랫폼이 다른 앱간에서
